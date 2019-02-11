@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	Cricketteam Pakistan("cricket.txt");
+	Cricketteam Pakistan("Q1_180968_in");
 	Cricketteam India;
 	Pakistan.printinformation();
 	Pakistan.Inputanotherteam(India);
